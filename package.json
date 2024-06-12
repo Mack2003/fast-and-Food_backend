@@ -1,0 +1,28 @@
+{
+  "name": "food_delevirey_backend",
+  "version": "1.0.0",
+  "description": "This is a basic foode delivery web application project to self improvement and learning.",
+  "main": "index.js",
+  "scripts": {
+    "start": "npx nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mack2003/food_delevirey_backend.git"
+  },
+  "author": "Malay Ray",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mack2003/food_delevirey_backend/issues"
+  },
+  "homepage": "https://github.com/Mack2003/food_delevirey_backend#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "mongoose": "^8.3.4",
+    "nodemailer": "^6.9.13",
+    "nodemon": "^3.1.0",
+    "razorpay": "^2.9.4"
+  }
+}
